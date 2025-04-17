@@ -27,18 +27,6 @@ You are welcome to stream the **FREE** game of my visual Novel. However, streami
 - **1 hour or less** gameplay (2+ hours in completion)
 - **Glossary and Album**
 
----
-
-## !! Warnings !!
-
-**DO NOTE THESE WILL BE THE INCOMING CONTENT AS THE GAME UPDATES SO PLEASE BE MADE AWARE OF THE FOLLOWING:**
-
-![image](https://github.com/user-attachments/assets/3a5d6ab8-4ae0-4ecc-8d00-1024f4d195d7)
-![image](https://github.com/user-attachments/assets/b211650a-4695-4ba1-af5c-a60ec4d904ec)
-
-
----
-
 ### Connect With Us
 
 [![Discord](https://img.shields.io/badge/Join%20Our-Discord-7289DA?style=flat-square&logo=discord)](https://discord.com/invite/t4kmCEQP2x)
